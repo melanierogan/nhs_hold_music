@@ -10,7 +10,7 @@ When you visit the nhs covid jab booking website a pop-up appears, you can then 
 ## Why
 Nobody loves queues but hold music can give us something else to complain about.
 
-How do I use it?
+## How do I use it?
 - You need to use chrome as your web browser. 
 - From Chrome head over to chrome://extensions/from the browser’s address bar and enable developer mode. 
 - That activates the “Load unpacked” button to add the extension files. 
