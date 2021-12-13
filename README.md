@@ -19,7 +19,7 @@ Nobody loves queues but hold music can give us something else to complain about.
 - Go to https://www.nhs.uk/book-a-coronavirus-vaccination/
 
 ## What is next?
-The bare-bones extenion, as it exists here, is being reviewed for the google chrome extenion store. This could take some time. Improvements will be pushed to this github repo and then to the chrome extension if it passes review.
+The bare-bones extension, as it exists here, is being reviewed for the google chrome extension store. This could take some time. Improvements will be pushed to this github repo and then to the chrome extension if it passes review.
 Things to improve will be logged in issues so I can track things more easily.
 
 # Thank you
