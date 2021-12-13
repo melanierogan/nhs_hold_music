@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+  "name": "NHS hold music",
+  "version": "1.0.0",
+  "description": "Save our NHS - Chill to some music while you wait",
+  "short_name": "NHS hold music",
+	"author": "Mel Rogan",
+
+	"icons": {
+		"16": "images/icons/16.png",
+		"19": "images/icons/19.png",
+		"38": "images/icons/38.png",
+		"64": "images/icons/64.png",
+		"128": "images/icons/128.png"
+	},
+
+	"web_accessible_resources": [
+		"hold_music.mp3"
+	],
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.nhs.uk/book-a-coronavirus-vaccination/*"],
+			"js": ["cont.js"]
+		}
+	]
+}
