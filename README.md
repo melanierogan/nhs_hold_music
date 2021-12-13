@@ -1,5 +1,5 @@
 # NHS hold music
-Save our NHS - Chill to some music while you wait to book or manage your covid jab or booster jab appointment
+Protect our NHS - Chill to some music while you wait to book or manage your covid jab or booster jab appointment
 
 ## What is this?
 A chrome extension which you can download from here and add as an 'unpacked' chrome extension. 
